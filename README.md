@@ -128,6 +128,7 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
+```
 PCM
 ```
 <img width="1409" height="1162" alt="image" src="https://github.com/user-attachments/assets/359bed1c-0aa6-4e59-89f0-754d50ab70a2" />
@@ -135,7 +136,6 @@ PCM
 DM
 ```
 <img width="1849" height="901" alt="image" src="https://github.com/user-attachments/assets/544cca8c-f72e-46aa-b0f4-a2d429146726" />
-```
 Attach the output waveform
 ```
 # Results

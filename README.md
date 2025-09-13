@@ -136,7 +136,6 @@ PCM
 DM
 ```
 <img width="1849" height="901" alt="image" src="https://github.com/user-attachments/assets/544cca8c-f72e-46aa-b0f4-a2d429146726" />
+
 # Results
-```
 The modulation and demodulation of PCM, and DM is verified
-```
